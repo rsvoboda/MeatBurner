@@ -1,0 +1,10 @@
+/.idea
+/out
+
+# Runtime minecraft left-overs
+/config
+/ForgeModLoader-client-*
+/options.txt
+/output-*
+/saves
+/stats
